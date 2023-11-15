@@ -1,0 +1,12 @@
+.header {
+  background: #beb7b7;
+}
+
+.header a {
+  margin-left: 20px;
+}
+
+.main {
+  padding: 10px;
+  background: #cccccc;
+}
